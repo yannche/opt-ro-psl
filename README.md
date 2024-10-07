@@ -1,7 +1,7 @@
 # Formation "Optimisation-RO" pour le certificat "Chef de Projet IA" de l'université Paris Dauphine-PSL.
 
-### Enseignants 2024-2025: Yann Chevaleyre et Paul Caillon (Université Paris Dauphine-PSL)
-### Enseignants 2023-2024: Clément Royer et Florentin Goyens (Université Paris Dauphine-PSL)
+#### Enseignants 2024-2025: Yann Chevaleyre et Paul Caillon (Université Paris Dauphine-PSL)
+#### Enseignants 2023-2024: Clément Royer et Florentin Goyens (Université Paris Dauphine-PSL)
 
 *Pré-requis :  Notions d'algèbre linéaire élémentaire et de programmation.*
  
