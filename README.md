@@ -9,8 +9,8 @@
 ## Programme des séances
 
 1. **Bases de l'optimisation et convexité** Introduction aux problèmes d'optimisation, état de l'art en optimisation convexe. Formulations convexes, caractérisation de solutions, algorithmes et librairies pour l'optimisation convexe. Lien vers le Notebook de la première séance : [https://colab.research.google.com/drive/1peiRXo1kUDHyngsjAFG8b04tC0bK6ryz?usp=sharing]
-2. **Optimisation non linéaire et non convexe** Exemples de problèmes non convexes en IA, niveaux de difficulté en optimisation non convexe. Éléments de calcul différentiel et d'optimisation non linéaire, principe de base de la descente de gradient. 
-3. **Méthodes de gradient stochastique** Intérêt des méthodes stochastiques en IA. Algorithme du gradient stochastique de base, justification théorique et pratique. Variantes avancées
+2. **Optimisation non linéaire et non convexe** Exemples de problèmes non convexes en IA, niveaux de difficulté en optimisation non convexe. Éléments de calcul différentiel et d'optimisation non linéaire, principe de base de la descente de gradient. Lien vers le Notebook: [https://colab.research.google.com/drive/1t3dkO8_3sWymTCIVQO8G1-eRA5RlghQX?usp=sharing]
+3. **Méthodes de gradient stochastique** Intérêt des méthodes stochastiques en IA. Algorithme du gradient stochastique de base, justification théorique et pratique. Variantes avancées. Lien vers le Notebook: [https://colab.research.google.com/drive/1vHbrNB-G57CeGpdSp8mOHDMA9Sqe9HOt?usp=sharing]
 4. **Optimisation sans dérivées** Différentiation automatique pour problèmes d'optimisation complexes. Optimisation d'hyperparamètres en IA et ailleurs, approches sans dérivées., mise à l'échelle, choix des hyperparamètres.
 5. **Optimisation à grande échelle** Contexte de calcul distribué, méthodes de descente par coordonnées. Problèmes de calcul décentralisé, introduction aux méthodes de consensus.
 
